@@ -8,8 +8,9 @@ The lack of awareness in the society against juvenile delinquency is a major con
 
 The classification is done by using one of the classical data mining classification techniques: K-Nearest-Neighbors Classification. This project includes the visualization for the dataset as well as for the final evaluated results. This classification will help us in understanding which states/UTs are vigilant about juvenile delinquency and which states require more awareness & stricter vigilance against juvenile delinquency.
 
-# [Dataset Paper]([url](https://ijmas.iraj.in/paper_detail.php?paper_id=19526&name=A_Dataset:_Impact_of_Education_on_Juvenile_Delinquency))
-Sachin Kumar Gupta ,Aavart Modi , (2023 ) " A Dataset: Impact of Education on Juvenile Delinquency " , International Journal of Management and Applied Science (IJMAS) , pp. 29-31, Volume-9,Issue-2
+# Dataset Paper
+[Sachin Kumar Gupta ,Aavart Modi , (2023 ) " A Dataset: Impact of Education on Juvenile Delinquency " , International Journal of Management and Applied Science (IJMAS) , pp. 29-31, Volume-9,Issue-2]([url](https://ijmas.iraj.in/paper_detail.php?paper_id=19526&name=A_Dataset:_Impact_of_Education_on_Juvenile_Delinquency))
 
-# [Project Research Paper]([url](https://ieeexplore.ieee.org/document/10094469))
-S. Kumar, G. A. Modi and A. Choudhury, "Analysis of Juvenile Delinquency in India," 2022 International Conference on Futuristic Technologies (INCOFT), Belgaum, India, 2022, pp. 1-6, doi: 10.1109/INCOFT55651.2022.10094469.
+# Project Research Paper
+[S. Kumar, G. A. Modi and A. Choudhury, "Analysis of Juvenile Delinquency in India," 2022 International Conference on Futuristic Technologies (INCOFT), Belgaum, India, 2022, pp. 1-6, doi: 10.1109/INCOFT55651.2022.10094469.
+](https://ieeexplore.ieee.org/document/10094469)
